@@ -1,5 +1,5 @@
 # cssh
-searches by Name tag in ec2 and "cssh" into all servers with the Name"
+searches by Name tag in ec2 and "cssh" into all servers with the Name
 
 example: 
 ./cssh.sh my_test_servers
